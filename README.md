@@ -8,7 +8,7 @@ Just an experiment with Grid Layout using characters of DBZ.
 
 ## Contributors
 
-- Randy Mota <randymotaj@gmail.com>
+- Randy M.
 
 ---
 
