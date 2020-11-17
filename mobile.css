@@ -1,0 +1,8 @@
+.container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 200px);
+}
+
+div img {
+    height: 200px;
+}
